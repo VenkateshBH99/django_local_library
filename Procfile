@@ -1,1 +1,1 @@
-web: gunicorn heart_disease_prediction.wsgi --log-file -
+web: gunicorn locallibrary.wsgi --log-file -
