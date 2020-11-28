@@ -74,7 +74,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'heart_disease_prediction.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 
 # Database
