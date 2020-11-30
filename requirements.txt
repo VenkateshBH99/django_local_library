@@ -1,5 +1,5 @@
 dj-database-url==0.5.0
-Django==3.1.2
+Django==2.1.15
 django-crispy-forms==1.8.1
 dlib==19.19.0
 graphviz==0.14
